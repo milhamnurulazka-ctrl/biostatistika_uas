@@ -132,4 +132,4 @@ def show():
     """)
 
 # Jalankan fungsi
-show()
+#show()
